@@ -1,2 +1,12 @@
 # TASK5-DATA-ANALYSIS
-this is EDA taks
+
+---
+
+## 🚀 How to Run
+1. Open the `EDA_Titanic.ipynb` file in Jupyter Notebook.
+2. Run all cells to generate visualizations and observations.
+
+---
+
+
+
